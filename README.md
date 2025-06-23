@@ -1,105 +1,95 @@
 <h1 align="center">
-  Hi there, I'm Venkatramanan K 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Venkatramanan K 
 </h1>
+
 <h3 align="center">
-  🚀 Passionate Full Stack Developer | MERN Stack | UI/UX Thinker
+  🔥 Full Stack Alchemist | MERN Stack Specialist | UI/UX Craftsman
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Full+Stack+Developer+from+India+🇮🇳;Currently+Learning+Next.js+%26+WordPress!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Transforming+ideas+into+digital+realities;Building+scalable+web+experiences;Always+learning%2C+always+growing" alt="Typing SVG" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=venk17&label=Profile%20Views&color=0e75b6&style=flat" alt="venk17" />
+  <a href="https://github.com/venk17?tab=followers">
+    <img src="https://img.shields.io/github/followers/venk17?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
 
 ---
 
-### 🧠 Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
+### 🛠️ My Toolbox
+
+#### 📋 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### 🗃 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🧰 Tech Stack
+### 📊 GitHub Analytics
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+<div align="center">
+  <a href="https://github.com/venk17">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venk17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venk17&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
 
-#### 🛠 Backend & API
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-#### 🗄 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-#### 🧰 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venk17&theme=radical&hide_border=true" alt="venk17" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venk17&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=venk17&theme=tokyonight&hide_border=false" width="48%"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venk17&theme=discord&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venk17&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="venk17" />
+</div>
 
 ---
 
-### 🔥 Contribution Graph
+### � My Digital Playground
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venk17&theme=react-dark&area=true&hide_border=true"/>
-</p>
+#### 🚀 Featured Projects
+- [**Military Asset Management**](https://github.com/venk17/asset-management) - Advanced inventory system with real-time tracking
+- [**Loan Application Portal**](https://github.com/venk17/loan-app) - Streamlined digital loan processing
+- [**E-commerce Platform**](https://github.com/venk17/ecommerce) - Full-featured online shopping experience
 
----
-
-### 🌐 Projects
-
-- 🚀 [Military Asset Management System](https://github.com/venk17/asset-management)  
-- 💼 [Loan Application System](https://github.com/venk17/loan-app)  
+#### 🔧 Recent Contributions
+- [**Open Source Library**](https://github.com/venk17/contribution) - Enhanced API documentation
+- [**Community Plugin**](https://github.com/venk17/plugin) - Added new authentication features
 
 ---
 
-### 📫 Let’s Connect
-
-<p align="left">
-  📧 **Email:** [k.venkatramanan2002@gmail.com](mailto:k.venkatramanan2002@gmail.com)  
-  💼 **LinkedIn:** [linkedin.com/in/venkatramanan-k](https://linkedin.com/in/venkatramanan-k)  
-  🌍 **Portfolio:** [venkatramanank.ccbp.tech](https://venkatramanank.ccbp.tech)  
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <b>"Building user-centric apps with 💙 & logic"</b>
-</p>
+### 🌟 Current Focus
+```text
+🌱 Learning: Next.js 14 & Advanced TypeScript
+🔭 Exploring: Microservices Architecture
+⚡ Fun Fact: I can solve a Rubik's cube in under 2 minutes!
