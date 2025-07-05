@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Full+Stack+Developer+from+India+🇮🇳;Currently+Learning+Next.js+%26+WordPress!" alt="Typing SVG" />
+  <img src="https://res.cloudinary.com/dhtc3kc4p/image/upload/v1742715175/log_puc-fotor-bg-remover-2025032313227_ij7mkc.png" />
 </p>
 
 ---
